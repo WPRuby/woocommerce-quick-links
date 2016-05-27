@@ -13,6 +13,10 @@ Reach payment gateways, shipping methods, and reports right from the dashboard t
 == Description ==
 Reach payment gateways, shipping methods, and reports right from the dashboard toolbar.
 
+== Screenshots ==
+
+1. Reaching all WooCommerce pages too quickly.
+
 
 == Installation ==
 
